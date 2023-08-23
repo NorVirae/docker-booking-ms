@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "lg6/fRsdBg2tRRyP6fLYHh9m6/5mDyfJl22QFZU0jL2is7LAygZPboTqRLLO8Im629gz1NAjJXG+VMCETMb65Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\norbe\\Documents\\Projs\\microservices\\BookingService\\Booking.Command\\Booking.Command.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\norbe\\.nuget\\packages\\awssdk.core\\3.7.201.3\\awssdk.core.3.7.201.3.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.200.24\\awssdk.dynamodbv2.3.7.200.24.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
