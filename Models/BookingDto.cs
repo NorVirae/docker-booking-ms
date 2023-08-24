@@ -3,6 +3,7 @@ using Booking.Command.utils;
 
 namespace Booking.Command.Models
 {
+    [DynamoDBTable("Booking")]
     public class BookingDto
     {
         public string? IdToken { get; set; }
@@ -13,7 +14,7 @@ namespace Booking.Command.Models
         [DynamoDBHashKey("UserId")]
         public string? UserId { get; set; }
 
-        [DynamoDbRangeKey("Id")]
+        [DynamoDBRangeKey("Id")]
         public string? Id { get; set; }
         public string? GivenName { get; set; }
         public string? FamilyName { get; set; }
